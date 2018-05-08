@@ -1,0 +1,15 @@
+frmMain = 176, 176, 723, 636, Z, 22, 22, 547, 462, C
+frmPassChange = 66, 66, 613, 526, , 44, 44, 591, 504, C
+frmPassSet = 44, 44, 591, 504, , 88, 88, 635, 548, C
+frmPassInput = 22, 22, 569, 482, , 110, 110, 657, 570, C
+SetDebugToken = 0, 0, 0, 0, C
+mSysTray = 0, 0, 0, 0, C
+cSysTray = 0, 0, 0, 0, C, 88, 88, 621, 534, C
+frmAbout = 132, 132, 679, 592, , 110, 110, 657, 570, C
+MCDHook = 0, 0, 0, 0, C
+MDrawWaves = 0, 0, 0, 0, C
+CCommonDialog = 0, 0, 0, 0, C
+WindowMessage = 132, 132, 665, 578, 
+SystemMenuCallbackFunctionClass = 176, 176, 709, 622, 
+HotKeyModule = 154, 154, 687, 600, 
+PasswordManagement = 198, 198, 1081, 658, 
